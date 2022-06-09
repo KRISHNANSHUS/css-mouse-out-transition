@@ -22,7 +22,7 @@ h1::before {
 h1 {
   position: relative;
   font-size: 5rem;
-  color: silver;
+  color: #0FC96B;
 }
 
 html {
